@@ -1,11 +1,13 @@
 about:
-  description: A feature rich TUI Twitch IRC Client
+  description:
+  |
+    A feature rich TUI Twitch IRC Client
   license: MIT
   homepage: http://chatuino.net
   head: 22a79e4
   archived: false
   latestVersion: v0.0.0-develop
-  collectedAt: 2026-09-04T04:55:01Z
+  collectedAt: 2026-09-04T19:54:15Z
 timeline:
   created: 2023-06-21
   lastCommit: 2026-07-21
@@ -16,7 +18,7 @@ popularity:
   fork: 6
   release: 34
   contributor: 3
-  pullRequest: 1
+  pullRequest: 87
   issue: 16
 language:
   Go: 719597
@@ -25,7 +27,7 @@ language:
   CSS: 3915
   HTML: 3195
   Dockerfile: 159
-totalLine: 822521
+totalBytes: 822521
 recent:
   last30d:
     since: 2026-08-05
@@ -35,6 +37,14 @@ recent:
     closedIssue: 0
     openIssue: 0
     commit: 0
+  last60d:
+    since: 2026-07-06
+    release: 1
+    mergedPR: 2
+    openPR: 1
+    closedIssue: 2
+    openIssue: 3
+    commit: 2
   last90d:
     since: 2026-06-06
     release: 2
@@ -59,3 +69,21 @@ recent:
     closedIssue: 11
     openIssue: 5
     commit: 57
+  last720d:
+    since: 2024-09-14
+    release: 18
+    mergedPR: 66
+    openPR: 1
+    closedIssue: 11
+    openIssue: 5
+    commit: 85
+total:
+  release: 34
+  mergedPR: 86
+  openPR: 1
+  closedIssue: 11
+  openIssue: 5
+  commit: 235
+---
+---
+
