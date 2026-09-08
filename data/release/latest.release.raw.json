@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 567,
       "digest": "sha256:943ab5095377e5164a7d41f7e18c72548c085feb903c3adec6d6ee7f4d69a963",
-      "download_count": 62,
+      "download_count": 63,
       "created_at": "2026-06-06T13:56:10Z",
       "updated_at": "2026-06-06T13:56:11Z",
       "browser_download_url": "https://github.com/julez-dev/chatuino/releases/download/v1.3.0/chatuino_1.3.0_checksums.txt"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 20882330,
       "digest": "sha256:7aa036be266d1501eb2b5d4e7b3a5403dc52b61c62a857434dfc7a1d0693faf3",
-      "download_count": 186,
+      "download_count": 187,
       "created_at": "2026-06-06T13:56:08Z",
       "updated_at": "2026-06-06T13:56:10Z",
       "browser_download_url": "https://github.com/julez-dev/chatuino/releases/download/v1.3.0/chatuino_Linux_x86_64.tar.gz"
