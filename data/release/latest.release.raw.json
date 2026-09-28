@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 20871905,
       "digest": "sha256:e61fa2d12d143d1582cd7a4e9e4c8fce5bdf7540fa95addc96fb7965d82029d5",
-      "download_count": 2,
+      "download_count": 3,
       "created_at": "2026-06-06T13:56:08Z",
       "updated_at": "2026-06-06T13:56:10Z",
       "browser_download_url": "https://github.com/julez-dev/chatuino/releases/download/v1.3.0/chatuino_Darwin_x86_64.tar.gz"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 20882330,
       "digest": "sha256:7aa036be266d1501eb2b5d4e7b3a5403dc52b61c62a857434dfc7a1d0693faf3",
-      "download_count": 249,
+      "download_count": 252,
       "created_at": "2026-06-06T13:56:08Z",
       "updated_at": "2026-06-06T13:56:10Z",
       "browser_download_url": "https://github.com/julez-dev/chatuino/releases/download/v1.3.0/chatuino_Linux_x86_64.tar.gz"
