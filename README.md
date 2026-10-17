@@ -33,7 +33,7 @@ Total: **29,313** lines of code across **155** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v0.0.0-develop` (2026-06-06)
-- **Last commit**: 2026-07-21
+- **Last commit**: 2026-10-16
 - **Assets in release**: 7
 
 ## Popularity
@@ -42,18 +42,18 @@ Total: **29,313** lines of code across **155** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 34 · **Merged PRs**: 86 · **Open PRs**: 3 · **Closed issues**: 11 · **Open issues**: 5 · **Commits**: 235
+- **Releases**: 34 · **Merged PRs**: 87 · **Open PRs**: 2 · **Closed issues**: 11 · **Open issues**: 5 · **Commits**: 236
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-16 | 0 | 0 | 2 | 0 | 0 | 0 |
-| last60d | 2026-08-17 | 0 | 0 | 2 | 0 | 0 | 0 |
-| 90d | 2026-07-18 | 1 | 0 | 2 | 0 | 0 | 1 |
-| last180d | 2026-04-19 | 2 | 3 | 3 | 3 | 4 | 3 |
-| 360d | 2025-10-21 | 13 | 46 | 3 | 11 | 5 | 57 |
-| last720d | 2024-10-26 | 18 | 66 | 3 | 11 | 5 | 85 |
+| 30d | 2026-09-17 | 1 | 1 | 1 | 0 | 0 | 1 |
+| last60d | 2026-08-18 | 1 | 1 | 1 | 0 | 0 | 1 |
+| 90d | 2026-07-19 | 1 | 1 | 1 | 0 | 0 | 2 |
+| last180d | 2026-04-20 | 2 | 4 | 2 | 3 | 4 | 4 |
+| 360d | 2025-10-22 | 13 | 47 | 2 | 11 | 5 | 58 |
+| last720d | 2024-10-27 | 18 | 67 | 2 | 11 | 5 | 86 |
 
 ## Release assets
 
@@ -76,4 +76,4 @@ Install metadata for chatuino lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261016.yml` · 2026-10-16T04:53:29Z._
+_Snapshot: `data/card/261017.yml` · 2026-10-17T04:48:16Z._
