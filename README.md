@@ -14,13 +14,13 @@ x install chatuino
 
 ## Code insight
 
-Total: **30,693** lines of code across **172** files in the top 5 languages.
+Total: **31,781** lines of code across **178** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 24,838 | 1,649 | 5,321 | 147 |
+| Go | 25,831 | 1,742 | 5,590 | 153 |
 | Json | 2,955 | 0 | 5 | 8 |
-| Tsx | 2,230 | 2 | 114 | 15 |
+| Tsx | 2,325 | 2 | 116 | 15 |
 | Sh | 287 | 24 | 62 | 1 |
 | Css | 138 | 18 | 27 | 1 |
 
@@ -32,8 +32,8 @@ Total: **30,693** lines of code across **172** files in the top 5 languages.
 
 ## Release
 
-- **Latest**: `v1.4.0` (2026-10-18)
-- **Last commit**: 2026-10-18
+- **Latest**: `v0.0.0-develop` (2026-10-18)
+- **Last commit**: 2026-10-19
 - **Assets in release**: 7
 
 ## Popularity
@@ -42,18 +42,18 @@ Total: **30,693** lines of code across **172** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 35 · **Merged PRs**: 92 · **Open PRs**: 0 · **Closed issues**: 11 · **Open issues**: 5 · **Commits**: 242
+- **Releases**: 35 · **Merged PRs**: 93 · **Open PRs**: 1 · **Closed issues**: 11 · **Open issues**: 5 · **Commits**: 243
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-19 | 2 | 6 | 0 | 0 | 0 | 7 |
-| last60d | 2026-08-20 | 2 | 6 | 0 | 0 | 0 | 7 |
-| 90d | 2026-07-21 | 2 | 6 | 0 | 0 | 0 | 7 |
-| last180d | 2026-04-22 | 3 | 9 | 0 | 3 | 4 | 10 |
-| 360d | 2025-10-24 | 14 | 52 | 0 | 11 | 5 | 64 |
-| last720d | 2024-10-29 | 19 | 72 | 0 | 11 | 5 | 92 |
+| 30d | 2026-09-20 | 2 | 7 | 1 | 0 | 0 | 8 |
+| last60d | 2026-08-21 | 2 | 7 | 1 | 0 | 0 | 8 |
+| 90d | 2026-07-22 | 2 | 7 | 1 | 0 | 0 | 8 |
+| last180d | 2026-04-23 | 3 | 10 | 1 | 3 | 4 | 11 |
+| 360d | 2025-10-25 | 14 | 53 | 1 | 11 | 5 | 65 |
+| last720d | 2024-10-30 | 19 | 73 | 1 | 11 | 5 | 93 |
 
 ## Release assets
 
@@ -76,4 +76,4 @@ Install metadata for chatuino lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261019.yml` · 2026-10-19T05:11:49Z._
+_Snapshot: `data/card/261020.yml` · 2026-10-20T05:20:58Z._
