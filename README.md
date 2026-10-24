@@ -14,11 +14,11 @@ x install chatuino
 
 ## Code insight
 
-Total: **31,781** lines of code across **178** files in the top 5 languages.
+Total: **35,516** lines of code across **186** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 25,831 | 1,742 | 5,590 | 153 |
+| Go | 29,566 | 2,286 | 6,563 | 161 |
 | Json | 2,955 | 0 | 5 | 8 |
 | Tsx | 2,325 | 2 | 116 | 15 |
 | Sh | 287 | 24 | 62 | 1 |
@@ -33,7 +33,7 @@ Total: **31,781** lines of code across **178** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v0.0.0-develop` (2026-10-18)
-- **Last commit**: 2026-10-19
+- **Last commit**: 2026-10-23
 - **Assets in release**: 7
 
 ## Popularity
@@ -42,18 +42,18 @@ Total: **31,781** lines of code across **178** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 35 · **Merged PRs**: 93 · **Open PRs**: 1 · **Closed issues**: 11 · **Open issues**: 5 · **Commits**: 243
+- **Releases**: 35 · **Merged PRs**: 94 · **Open PRs**: 0 · **Closed issues**: 11 · **Open issues**: 5 · **Commits**: 244
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-23 | 2 | 7 | 1 | 0 | 0 | 8 |
-| last60d | 2026-08-24 | 2 | 7 | 1 | 0 | 0 | 8 |
-| 90d | 2026-07-25 | 2 | 7 | 1 | 0 | 0 | 8 |
-| last180d | 2026-04-26 | 3 | 10 | 1 | 3 | 4 | 11 |
-| 360d | 2025-10-28 | 14 | 53 | 1 | 10 | 5 | 65 |
-| last720d | 2024-11-02 | 19 | 73 | 1 | 11 | 5 | 93 |
+| 30d | 2026-09-24 | 2 | 8 | 0 | 0 | 0 | 9 |
+| last60d | 2026-08-25 | 2 | 8 | 0 | 0 | 0 | 9 |
+| 90d | 2026-07-26 | 2 | 8 | 0 | 0 | 0 | 9 |
+| last180d | 2026-04-27 | 3 | 11 | 0 | 3 | 4 | 12 |
+| 360d | 2025-10-29 | 14 | 54 | 0 | 10 | 5 | 66 |
+| last720d | 2024-11-03 | 19 | 74 | 0 | 11 | 5 | 94 |
 
 ## Release assets
 
@@ -76,4 +76,4 @@ Install metadata for chatuino lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261023.yml` · 2026-10-23T05:24:46Z._
+_Snapshot: `data/card/261024.yml` · 2026-10-24T04:58:54Z._
