@@ -14,15 +14,15 @@ x install chatuino
 
 ## Code insight
 
-Total: **45,695** lines of code across **213** files in the top 5 languages.
+Total: **49,896** lines of code across **249** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 39,547 | 3,060 | 8,408 | 188 |
+| Go | 43,358 | 3,399 | 9,324 | 211 |
 | Json | 2,955 | 0 | 5 | 8 |
-| Tsx | 2,523 | 2 | 111 | 15 |
+| Tsx | 2,577 | 2 | 111 | 15 |
+| Yaml | 461 | 36 | 141 | 14 |
 | Sh | 287 | 24 | 62 | 1 |
-| Css | 138 | 18 | 27 | 1 |
 
 ## Source
 
@@ -33,7 +33,7 @@ Total: **45,695** lines of code across **213** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v0.0.0-develop` (2026-10-18)
-- **Last commit**: 2026-10-26
+- **Last commit**: 2026-10-27
 - **Assets in release**: 7
 
 ## Popularity
@@ -42,18 +42,18 @@ Total: **45,695** lines of code across **213** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 35 · **Merged PRs**: 104 · **Open PRs**: 0 · **Closed issues**: 17 · **Open issues**: 3 · **Commits**: 254
+- **Releases**: 35 · **Merged PRs**: 108 · **Open PRs**: 0 · **Closed issues**: 17 · **Open issues**: 3 · **Commits**: 259
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-27 | 2 | 18 | 0 | 3 | 1 | 19 |
-| last60d | 2026-08-28 | 2 | 18 | 0 | 3 | 1 | 19 |
-| 90d | 2026-07-29 | 2 | 18 | 0 | 3 | 1 | 19 |
-| last180d | 2026-04-30 | 3 | 21 | 0 | 9 | 2 | 22 |
-| 360d | 2025-11-01 | 14 | 64 | 0 | 16 | 3 | 75 |
-| last720d | 2024-11-06 | 19 | 84 | 0 | 17 | 3 | 104 |
+| 30d | 2026-09-28 | 2 | 22 | 0 | 3 | 1 | 24 |
+| last60d | 2026-08-29 | 2 | 22 | 0 | 3 | 1 | 24 |
+| 90d | 2026-07-30 | 2 | 22 | 0 | 3 | 1 | 24 |
+| last180d | 2026-05-01 | 3 | 25 | 0 | 9 | 2 | 27 |
+| 360d | 2025-11-02 | 14 | 68 | 0 | 16 | 3 | 80 |
+| last720d | 2024-11-07 | 19 | 88 | 0 | 17 | 3 | 109 |
 
 ## Release assets
 
@@ -76,4 +76,4 @@ Install metadata for chatuino lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261027.yml` · 2026-10-27T05:32:35Z._
+_Snapshot: `data/card/261028.yml` · 2026-10-28T06:01:20Z._
