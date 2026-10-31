@@ -1,1 +1,1 @@
-[{"repo":"aur","srcname":"chatuino-bin","binname":"chatuino-bin","visiblename":"chatuino-bin","version":"1.4.0","origversion":"1.4.0-1","status":"unique","summary":"A client for twitch's IRC service.","maintainers":["julezdev@aur"],"licenses":["MIT"]}]
+[{"repo":"aur","srcname":"chatuino-bin","binname":"chatuino-bin","visiblename":"chatuino-bin","version":"1.5.0","origversion":"1.5.0-1","status":"unique","summary":"A client for twitch's IRC service.","maintainers":["julezdev@aur"],"licenses":["MIT"]}]
