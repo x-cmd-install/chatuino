@@ -14,11 +14,11 @@ x install chatuino
 
 ## Code insight
 
-Total: **49,896** lines of code across **249** files in the top 5 languages.
+Total: **47,856** lines of code across **237** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 43,358 | 3,399 | 9,324 | 211 |
+| Go | 41,318 | 3,217 | 9,121 | 199 |
 | Json | 2,955 | 0 | 5 | 8 |
 | Tsx | 2,577 | 2 | 111 | 15 |
 | Yaml | 461 | 36 | 141 | 14 |
@@ -32,8 +32,8 @@ Total: **49,896** lines of code across **249** files in the top 5 languages.
 
 ## Release
 
-- **Latest**: `v0.0.0-develop` (2026-10-18)
-- **Last commit**: 2026-10-28
+- **Latest**: `v1.5.0` (2026-10-30)
+- **Last commit**: 2026-10-30
 - **Assets in release**: 7
 
 ## Popularity
@@ -42,30 +42,30 @@ Total: **49,896** lines of code across **249** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 35 · **Merged PRs**: 109 · **Open PRs**: 1 · **Closed issues**: 17 · **Open issues**: 3 · **Commits**: 260
+- **Releases**: 36 · **Merged PRs**: 111 · **Open PRs**: 0 · **Closed issues**: 17 · **Open issues**: 3 · **Commits**: 262
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-30 | 2 | 23 | 1 | 3 | 1 | 25 |
-| last60d | 2026-08-31 | 2 | 23 | 1 | 3 | 1 | 25 |
-| 90d | 2026-08-01 | 2 | 23 | 1 | 3 | 1 | 25 |
-| last180d | 2026-05-03 | 3 | 26 | 1 | 9 | 2 | 28 |
-| 360d | 2025-11-04 | 14 | 69 | 1 | 16 | 3 | 81 |
-| last720d | 2024-11-09 | 19 | 89 | 1 | 17 | 3 | 110 |
+| 30d | 2026-10-01 | 3 | 25 | 0 | 3 | 1 | 27 |
+| last60d | 2026-09-01 | 3 | 25 | 0 | 3 | 1 | 27 |
+| 90d | 2026-08-02 | 3 | 25 | 0 | 3 | 1 | 27 |
+| last180d | 2026-05-04 | 4 | 28 | 0 | 9 | 2 | 30 |
+| 360d | 2025-11-05 | 15 | 70 | 0 | 16 | 3 | 83 |
+| last720d | 2024-11-10 | 20 | 91 | 0 | 17 | 3 | 112 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [chatuino_1.4.0_checksums.txt](https://github.com/julez-dev/chatuino/releases/download/v1.4.0/chatuino_1.4.0_checksums.txt) | 567 B | `other` |
-| [chatuino_Darwin_arm64.tar.gz](https://github.com/julez-dev/chatuino/releases/download/v1.4.0/chatuino_Darwin_arm64.tar.gz) | 21.9 MiB | `native/darwin/arm64` |
-| [chatuino_Darwin_x86_64.tar.gz](https://github.com/julez-dev/chatuino/releases/download/v1.4.0/chatuino_Darwin_x86_64.tar.gz) | 22.8 MiB | `native/darwin/x64` |
-| [chatuino_Linux_arm64.tar.gz](https://github.com/julez-dev/chatuino/releases/download/v1.4.0/chatuino_Linux_arm64.tar.gz) | 21.6 MiB | `native/linux/arm64` |
-| [chatuino_Linux_x86_64.tar.gz](https://github.com/julez-dev/chatuino/releases/download/v1.4.0/chatuino_Linux_x86_64.tar.gz) | 22.8 MiB | `native/linux/x64` |
-| [chatuino_Windows_arm64.zip](https://github.com/julez-dev/chatuino/releases/download/v1.4.0/chatuino_Windows_arm64.zip) | 21.5 MiB | `native/win/arm64` |
-| [chatuino_Windows_x86_64.zip](https://github.com/julez-dev/chatuino/releases/download/v1.4.0/chatuino_Windows_x86_64.zip) | 22.9 MiB | `native/win/x64` |
+| [chatuino_1.5.0_checksums.txt](https://github.com/julez-dev/chatuino/releases/download/v1.5.0/chatuino_1.5.0_checksums.txt) | 567 B | `other` |
+| [chatuino_Darwin_arm64.tar.gz](https://github.com/julez-dev/chatuino/releases/download/v1.5.0/chatuino_Darwin_arm64.tar.gz) | 23.0 MiB | `native/darwin/arm64` |
+| [chatuino_Darwin_x86_64.tar.gz](https://github.com/julez-dev/chatuino/releases/download/v1.5.0/chatuino_Darwin_x86_64.tar.gz) | 23.9 MiB | `native/darwin/x64` |
+| [chatuino_Linux_arm64.tar.gz](https://github.com/julez-dev/chatuino/releases/download/v1.5.0/chatuino_Linux_arm64.tar.gz) | 22.6 MiB | `native/linux/arm64` |
+| [chatuino_Linux_x86_64.tar.gz](https://github.com/julez-dev/chatuino/releases/download/v1.5.0/chatuino_Linux_x86_64.tar.gz) | 23.9 MiB | `native/linux/x64` |
+| [chatuino_Windows_arm64.zip](https://github.com/julez-dev/chatuino/releases/download/v1.5.0/chatuino_Windows_arm64.zip) | 22.6 MiB | `native/win/arm64` |
+| [chatuino_Windows_x86_64.zip](https://github.com/julez-dev/chatuino/releases/download/v1.5.0/chatuino_Windows_x86_64.zip) | 24.0 MiB | `native/win/x64` |
 
 ## Improve this data
 
@@ -76,4 +76,4 @@ Install metadata for chatuino lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261030.yml` · 2026-10-30T06:14:07Z._
+_Snapshot: `data/card/261031.yml` · 2026-10-31T06:05:11Z._
