@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 567,
       "digest": "sha256:bc7ae1e5b7ef36446856ebb646ce67b1d66fc60d65f84e538638764fcfcf81ba",
-      "download_count": 3,
+      "download_count": 12,
       "created_at": "2026-10-30T19:29:22Z",
       "updated_at": "2026-10-30T19:29:22Z",
       "browser_download_url": "https://github.com/julez-dev/chatuino/releases/download/v1.5.0/chatuino_1.5.0_checksums.txt"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 24090660,
       "digest": "sha256:a1e0dec58a98fcb3775144d7aa657a0cf8b1ab7c6ec0442b3958fe4eb2f34229",
-      "download_count": 1,
+      "download_count": 9,
       "created_at": "2026-10-30T19:29:20Z",
       "updated_at": "2026-10-30T19:29:21Z",
       "browser_download_url": "https://github.com/julez-dev/chatuino/releases/download/v1.5.0/chatuino_Darwin_arm64.tar.gz"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 25083628,
       "digest": "sha256:bd6bcd9a7b7723b8c98c06f6cfd1487805c82068a8088b079fb44c024ebcf9c1",
-      "download_count": 11,
+      "download_count": 25,
       "created_at": "2026-10-30T19:29:20Z",
       "updated_at": "2026-10-30T19:29:22Z",
       "browser_download_url": "https://github.com/julez-dev/chatuino/releases/download/v1.5.0/chatuino_Linux_x86_64.tar.gz"
