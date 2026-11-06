@@ -48,12 +48,12 @@ Total: **47,856** lines of code across **237** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-06 | 3 | 25 | 0 | 3 | 1 | 27 |
-| last60d | 2026-09-06 | 3 | 25 | 0 | 3 | 1 | 27 |
-| 90d | 2026-08-07 | 3 | 25 | 0 | 3 | 1 | 27 |
-| last180d | 2026-05-09 | 4 | 28 | 0 | 9 | 2 | 30 |
-| 360d | 2025-11-10 | 14 | 68 | 0 | 16 | 3 | 80 |
-| last720d | 2024-11-15 | 20 | 91 | 0 | 17 | 3 | 112 |
+| 30d | 2026-10-07 | 3 | 25 | 0 | 3 | 1 | 0 |
+| last60d | 2026-09-07 | 3 | 25 | 0 | 3 | 1 | 0 |
+| 90d | 2026-08-08 | 3 | 25 | 0 | 3 | 1 | 0 |
+| last180d | 2026-05-10 | 4 | 28 | 0 | 9 | 2 | 0 |
+| 360d | 2025-11-11 | 14 | 67 | 0 | 16 | 3 | 0 |
+| last720d | 2024-11-16 | 20 | 91 | 0 | 17 | 3 | 112 |
 
 ## Release assets
 
@@ -76,4 +76,4 @@ Install metadata for chatuino lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261105.yml` · 2026-11-05T07:13:49Z._
+_Snapshot: `data/card/261106.yml` · 2026-11-06T07:12:00Z._
