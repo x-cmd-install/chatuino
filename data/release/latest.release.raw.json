@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 25081920,
       "digest": "sha256:9249652d1862acd16bfe6edcd467bf2f6d342e449c44113cbc0ccf3ae8186a4c",
-      "download_count": 38,
+      "download_count": 39,
       "created_at": "2026-11-06T19:15:19Z",
       "updated_at": "2026-11-06T19:15:20Z",
       "browser_download_url": "https://github.com/julez-dev/chatuino/releases/download/v1.5.1/chatuino_Linux_x86_64.tar.gz"
