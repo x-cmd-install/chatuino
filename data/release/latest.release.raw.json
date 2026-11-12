@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 567,
       "digest": "sha256:a205f6f9133b2d4aa13b60665f537f853d7f38d77aecfc0bdf23f4c6aedf4eee",
-      "download_count": 11,
+      "download_count": 12,
       "created_at": "2026-11-06T19:15:19Z",
       "updated_at": "2026-11-06T19:15:19Z",
       "browser_download_url": "https://github.com/julez-dev/chatuino/releases/download/v1.5.1/chatuino_1.5.1_checksums.txt"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 25081920,
       "digest": "sha256:9249652d1862acd16bfe6edcd467bf2f6d342e449c44113cbc0ccf3ae8186a4c",
-      "download_count": 39,
+      "download_count": 42,
       "created_at": "2026-11-06T19:15:19Z",
       "updated_at": "2026-11-06T19:15:20Z",
       "browser_download_url": "https://github.com/julez-dev/chatuino/releases/download/v1.5.1/chatuino_Linux_x86_64.tar.gz"
@@ -291,5 +291,17 @@
   ],
   "tarball_url": "https://api.github.com/repos/julez-dev/chatuino/tarball/v1.5.1",
   "zipball_url": "https://api.github.com/repos/julez-dev/chatuino/zipball/v1.5.1",
-  "body": "## Changelog\n### Bug fixes\n* d008e8d64fefd6736dad2d00b33dac05ec457fc6 fix(json): repair v2 zero-value leaks in requests, layouts and logs (#134)\n\n"
+  "body": "## Changelog\n### Bug fixes\n* d008e8d64fefd6736dad2d00b33dac05ec457fc6 fix(json): repair v2 zero-value leaks in requests, layouts and logs (#134)\n\n",
+  "reactions": {
+    "url": "https://api.github.com/repos/julez-dev/chatuino/releases/436895422/reactions",
+    "total_count": 1,
+    "+1": 1,
+    "-1": 0,
+    "laugh": 0,
+    "hooray": 0,
+    "confused": 0,
+    "heart": 0,
+    "rocket": 0,
+    "eyes": 0
+  }
 }
